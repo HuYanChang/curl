@@ -1,0 +1,11 @@
+{
+    "name": "hyc/curl",
+    "description": "http get post",
+    "authors": [
+        {
+            "name": "HuYanChang",
+            "email": "976262957@qq.com"
+        }
+    ],
+    "require": {}
+}
